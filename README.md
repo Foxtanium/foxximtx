@@ -1,7 +1,7 @@
 # Foxximtx
+## THIS CLIENT IS NOT MEANT FOR EXTERNAL USE.
 Another Matrix client wich adds nothing new.
-Its just the client at https://matrix.hostnetwork.xyz and its based on the abandoned "HeilFuchs Hostnetwork Client" which liek the client is just a rip of cinny.
-# THIS CLIENT IS NOT MEANT FOR EXTERNAL USE.
+Its just the client at https://matrix.hostnetwork.xyz and its based on the abandoned "HeilFuchs Hostnetwork Client" which like the client is just a rip of cinny.
 This client conains custom Menus, features and connectivety to following servers;
 -fjox.win
 -hostnetwork.xyz
