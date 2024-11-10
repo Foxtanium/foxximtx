@@ -1,14 +1,14 @@
 {
-  "defaultHomeserver": 2,
+  "defaultHomeserver": 0,
   "homeserverList": [
-    "converser.eu",
-    "envs.net",
-    "matrix.org",
-    "monero.social",
-    "mozilla.org",
-    "xmr.se"
+    "fjox.win",
+    "hostnetwork.xyz",
+    "shitpoststatus.net",
+    "shitpoststatus-net.hostnetwork.xyz",
+	"matrix.org",
+	"mozilla.org",
   ],
-  "allowCustomHomeservers": true,
+  "allowCustomHomeservers": false,
 
   "featuredCommunities": {
     "openAsDefault": false,
