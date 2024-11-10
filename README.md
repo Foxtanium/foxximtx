@@ -3,11 +3,12 @@
 Another Matrix client wich adds nothing new.
 Its just the client at https://matrix.hostnetwork.xyz and its based on the abandoned "HeilFuchs Hostnetwork Client" which like the client is just a rip of cinny.
 This client conains custom Menus, features and connectivety to following servers;
--fjox.win
--hostnetwork.xyz
--shitpoststatus.net
--shitpoststatus-net.hostnetwork.xyz
--matrix.org
+- fjox.win
+- hostnetwork.xyz
+- shitpoststatus.net
+- shitpoststatus-net.hostnetwork.xyz
+- matrix.org
+
 #### FAQ
 Q: Why does the Description say "Inspired by Obama"?
 A: Well ask yourself why another Matrix client? Because we can. And you could also say "Yes we can" and thats a Obama quote and no its nothing political, it was just something i set for no reason. (if you want to appeal t his decision, you have to find Obamas last name(impossible)).
